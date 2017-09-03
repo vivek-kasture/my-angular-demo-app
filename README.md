@@ -32,4 +32,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Push latest code on git.
 - `ng build --prod --base-href https://vivek-kasture.github.io/my-angular-demo-app/  
 - Here https://git_username.github.io/repositoryName
+- Hit `ngh`
 - Hit the https://git_username.github.io/repositoryName

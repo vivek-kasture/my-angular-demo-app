@@ -26,3 +26,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Deploy app on server (github.io)
+
+- Push latest code on git.
+- `ng build --prod --base-href https://vivek-kasture.github.io/my-angular-demo-app/  
+- Here https://git_username.github.io/repositoryName
+- Hit the https://git_username.github.io/repositoryName
